@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [challenge_porfolio_Wiktoria](challenge_porfolio_Wiktoria)
 
-- 📫 How to reach me **wmozalewska@gmail.com**
+- 📫 How to reach me [**email**](wmozalewska@gmail.com)
 <p align="left">
 </p>
 
