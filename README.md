@@ -1,45 +1,30 @@
 <h1 align="center">Portfolio</h1>
 
 
-
-- [<kbd> About me </kbd>](#about-me)
-- [<kbd> Courses </kbd>](#courses)
-- [<kbd> Tools </kbd>](#tools)
-- [<kbd> Projects </kbd>](#projects)
-- [<kbd> Contact </kbd>](#contact)
-
-  
-  
-[![portfolio](https://user-images.githubusercontent.com/122229411/219461054-b8e8215c-a07d-413c-a355-d9d09f443404.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
-
  <h1 align="center">Hi 👋, I'm Wika</h1>
 <h3 align="center">A passionate learner of manual testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wikmoz&label=Profile%20views&color=0e75b6&style=flat" alt="wikmoz" /> </p>
 
-- 🌱 I’m currently learning **DARE IT challenge: Zostań testerem manualnym**
+- 🌱 I’m currently learning: **DARE IT challenge: Zostań testerem manualnym**
 
 - 👨‍💻 All of my projects are available at [challenge_porfolio_Wiktoria](challenge_porfolio_Wiktoria)
 
 - 📫 How to reach me **wmozalewska@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 
-
-
-
-# About me
-
+[<kbd> Courses </kbd>](#courses)
+[<kbd> Tools </kbd>](#tools)
+[<kbd> Projects </kbd>](#projects)
 
 
 # Courses
 
 - Dare IT Challenge: Zostań Testerem Manualnym
 - SQL w 120 minut (kursysql.pl)
-- 
+
 
 # Tools
 
@@ -80,5 +65,4 @@
 |4  |No possibility to add comment to the article|[BUG4](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613982/CPP-5.pdf)|[Screencast](https://drive.google.com/file/d/1Hk4CA7y46jmeFjd4jy2x-7m2uVLGanS4/view?usp=share_link)|
 |5  |Name of the author overlaps the icons|[BUG5](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613965/CPP-6.pdf)|[Screencast](https://drive.google.com/file/d/1lOVSLKrvoZg3jJ-e3gnJUDC9dj4ZoO_Z/view?usp=share_link)|
 
-# Contact
- wmozalewska@gmail.com
+[![portfolio](https://user-images.githubusercontent.com/122229411/219461054-b8e8215c-a07d-413c-a355-d9d09f443404.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
