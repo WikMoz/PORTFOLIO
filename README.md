@@ -66,3 +66,5 @@
 |5  |Name of the author overlaps the icons|[BUG5](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613965/CPP-6.pdf)|[Screencast](https://drive.google.com/file/d/1lOVSLKrvoZg3jJ-e3gnJUDC9dj4ZoO_Z/view?usp=share_link)|
 
 [![portfolio](https://user-images.githubusercontent.com/122229411/219461054-b8e8215c-a07d-413c-a355-d9d09f443404.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
+
+
