@@ -24,8 +24,8 @@
 - 📫 How to reach me: [**email**](wmozalewska@gmail.com)
 # Courses
 
-- Dare IT Challenge: Zostań Testerem Manualnym
-- SQL w 120 minut (kursysql.pl)
+- 3 months course - Dare IT Challenge: Become a manual tester
+- SQL basics (sql in 120 minutes - kursysql.pl)
 
 
 # Tools
@@ -58,7 +58,7 @@
 ### Explorative testing OLX mobile app
 - [Bug report](https://docs.google.com/spreadsheets/d/1psyvC75DrlCn2q9qnlad02WGcFH9bQkzEdPt1OVgCuA/edit?usp=share_link)
 
-### Testing SwipeTo in groups (https://sirtester.atlassian.net/browse/CPP)
+### Testing SwipeTo in groups [jira project](https://sirtester.atlassian.net/browse/CPP)
 |Id |Title                                                                       | BUG |Screencast|
 |:-:|:--------------------------------------------------------------------------:|:---:|:--------:|
 |1  |The registration window is cropped|[BUG1](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10614016/CPP-2.pdf)|[Screencast](https://user-images.githubusercontent.com/122229411/216847250-a513ca26-e12c-41da-864d-a2dba5616a9e.mp4)|
