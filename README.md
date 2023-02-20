@@ -76,4 +76,4 @@
 ## Can't find any bugs?
 
 [![image](https://user-images.githubusercontent.com/122229411/220118399-62be1ad0-c2cf-4fd8-ab22-8e16575283d4.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
-### [**Contact me**](wmozalewska@gmail.com)
+### **Contact me**: [email](wmozalewska@gmail.com)
