@@ -1,5 +1,6 @@
 
-![Blue Modern Hello December Facebook Cover](https://user-images.githubusercontent.com/122229411/220116106-3cc94355-b48d-4201-9c1b-c48a34bfbbf9.png)
+
+![2023-02-20_20h49_22](https://user-images.githubusercontent.com/122229411/220188318-ab13f5d8-f710-4785-93d0-21e36bc2b6c2.png)
 
 
 
@@ -19,7 +20,7 @@
 
 - 🌱 I’m currently learning: **DARE IT challenge: Zostań testerem manualnym**
 
-- 👨‍💻 All of my projects are available at: [challenge_porfolio_Wiktoria](https://github.com/WikMoz/challenge_portfolio_Wiktoria)
+- 👨‍💻 All of my projects are available at: [DARE IT challenge](https://github.com/WikMoz/challenge_portfolio_Wiktoria)
 
 - 📫 How to reach me: <wmozalewska@gmail.com>
 # Courses
