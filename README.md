@@ -1,32 +1,27 @@
 
-
-&nsbp[![portfolio](https://user-images.githubusercontent.com/122229411/219461054-b8e8215c-a07d-413c-a355-d9d09f443404.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg)
-
- 
+![Blue Modern Hello December Facebook Cover](https://user-images.githubusercontent.com/122229411/220116106-3cc94355-b48d-4201-9c1b-c48a34bfbbf9.png)
 
 
-<h1 align="center">Portfolio</h1>
-
-
- <h1 align="center">Hi 👋, I'm Wika</h1>
-<h3 align="center">A passionate learner of manual testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wikmoz&label=Profile%20views&color=0e75b6&style=flat" alt="wikmoz" /> </p>
+
+<p align="left">
+</p>
+
+[<kbd> About me </kbd>](#about-me)
+[<kbd> Courses </kbd>](#courses)
+[<kbd> Tools </kbd>](#tools)
+[<kbd> Projects </kbd>](#projects)
+
+# About me
+
+- 👋 Hi! I'm Wika! I'm passionate learner of manual testing. 
 
 - 🌱 I’m currently learning: **DARE IT challenge: Zostań testerem manualnym**
 
 - 👨‍💻 All of my projects are available at: [challenge_porfolio_Wiktoria](challenge_porfolio_Wiktoria)
 
 - 📫 How to reach me: [**email**](wmozalewska@gmail.com)
-<p align="left">
-</p>
-
-
-[<kbd> Courses </kbd>](#courses)
-[<kbd> Tools </kbd>](#tools)
-[<kbd> Projects </kbd>](#projects)
-
-
 # Courses
 
 - Dare IT Challenge: Zostań Testerem Manualnym
@@ -72,6 +67,13 @@
 |4  |No possibility to add comment to the article|[BUG4](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613982/CPP-5.pdf)|[Screencast](https://drive.google.com/file/d/1Hk4CA7y46jmeFjd4jy2x-7m2uVLGanS4/view?usp=share_link)|
 |5  |Name of the author overlaps the icons|[BUG5](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613965/CPP-6.pdf)|[Screencast](https://drive.google.com/file/d/1lOVSLKrvoZg3jJ-e3gnJUDC9dj4ZoO_Z/view?usp=share_link)|
 
-[![portfolio](https://user-images.githubusercontent.com/122229411/219461054-b8e8215c-a07d-413c-a355-d9d09f443404.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
 
 
+---
+---
+
+
+## Can't find any bugs?
+
+[![image](https://user-images.githubusercontent.com/122229411/220118399-62be1ad0-c2cf-4fd8-ab22-8e16575283d4.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
+### [**Contact me**](wmozalewska@gmail.com)
