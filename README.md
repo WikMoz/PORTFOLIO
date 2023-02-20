@@ -18,7 +18,7 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of manual testing. 
 
-- 🌱 I’m currently learning: **DARE IT challenge: Zostań testerem manualnym**
+- 🌱 I’m currently learning: **DARE IT challenge: Become a manual tester**
 
 - 👨‍💻 All of my projects are available at: [DARE IT challenge](https://github.com/WikMoz/challenge_portfolio_Wiktoria)
 
@@ -78,3 +78,5 @@
 
 [![image](https://user-images.githubusercontent.com/122229411/220118399-62be1ad0-c2cf-4fd8-ab22-8e16575283d4.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg) 
 ### **Contact me**: wmozalewska@gmail.com
+
+I'm finishing my DARE IT course and I am really interested in gaining some experience to enrich my portfolio 😀
