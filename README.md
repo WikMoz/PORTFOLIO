@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at: [challenge_porfolio_Wiktoria](https://github.com/WikMoz/challenge_portfolio_Wiktoria)
 
-- 📫 How to reach me: [**wmozalewska@gmail.com**](wmozalewska@gmail.com)
+- 📫 How to reach me: <wmozalewska@gmail.com>
 # Courses
 
 - 3 months course - Dare IT Challenge: Become a manual tester
