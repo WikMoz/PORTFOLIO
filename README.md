@@ -1,3 +1,10 @@
+
+
+&nsbp[![portfolio](https://user-images.githubusercontent.com/122229411/219461054-b8e8215c-a07d-413c-a355-d9d09f443404.png)](https://cdn.quotesgram.com/small/49/3/1387005649-how_to_fix_software_bugs.jpg)
+
+ 
+
+
 <h1 align="center">Portfolio</h1>
 
 
@@ -8,9 +15,9 @@
 
 - 🌱 I’m currently learning: **DARE IT challenge: Zostań testerem manualnym**
 
-- 👨‍💻 All of my projects are available at [challenge_porfolio_Wiktoria](challenge_porfolio_Wiktoria)
+- 👨‍💻 All of my projects are available at: [challenge_porfolio_Wiktoria](challenge_porfolio_Wiktoria)
 
-- 📫 How to reach me [**email**](wmozalewska@gmail.com)
+- 📫 How to reach me: [**email**](wmozalewska@gmail.com)
 <p align="left">
 </p>
 
@@ -29,8 +36,8 @@
 # Tools
 
 - SQL (phpMyAdmin, SQL Server Managment Studio) - basics for beginners
-- Jira - basics for beginners (creating test cases in group)
-- GitHub - basics for beginners (creating portfolio)
+- Jira - basics (creating test cases in group)
+- GitHub - basics (creating portfolio)
 - Devtools - basics for beginners
 - Screenpresso, Mobizen
 - Slack
@@ -39,10 +46,10 @@
 # Projects
 
 
-## Testing while DARE IT challenge:
+## Testing exercises at DARE IT challenge:
 
 
-### Exercise on testing of Scouts Kolektyw
+### Testing Scouts Kolektyw 
 - Explorative tesitng
 - [Test cases for user stories](https://docs.google.com/spreadsheets/d/1lodk83NlXzVX2n_N-y8rW2jbiDuHJxqD/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
 - [Test cases based on experience](https://docs.google.com/spreadsheets/d/1YmXbnhtnpeROPaZI6VZ_JnWPs83CFGMd/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
@@ -50,13 +57,13 @@
 - [Test report](https://docs.google.com/spreadsheets/d/1IvBLQX9O88la2VP2aUuf9GlSBBfTlNkv5cXqbucVlKc/edit?usp=sharing) 
 - [Explorative testing - tour](https://docs.google.com/spreadsheets/d/1TrnbCMN6Ii4YK9mdQORSYsZ59pRR7AjU5uM4_7y8bEg/edit?usp=share_link) 
 
-### Exercise on testing particular functions of pick.eat.up mobile app in group
+### Testing particular functions of pick.eat.up mobile app in group
 - [Test cases for pick.eat.up app](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true) 
 
-### Exercise on testing OLX mobile app
+### Explorative testing OLX mobile app
 - [Bug report](https://docs.google.com/spreadsheets/d/1psyvC75DrlCn2q9qnlad02WGcFH9bQkzEdPt1OVgCuA/edit?usp=share_link)
 
-### Exercise on testing SwipeTo in groups (https://sirtester.atlassian.net/browse/CPP)
+### Testing SwipeTo in groups (https://sirtester.atlassian.net/browse/CPP)
 |Id |Title                                                                       | BUG |Screencast|
 |:-:|:--------------------------------------------------------------------------:|:---:|:--------:|
 |1  |The registration window is cropped|[BUG1](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10614016/CPP-2.pdf)|[Screencast](https://user-images.githubusercontent.com/122229411/216847250-a513ca26-e12c-41da-864d-a2dba5616a9e.mp4)|
