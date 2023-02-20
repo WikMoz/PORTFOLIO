@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning: **DARE IT challenge: Zostań testerem manualnym**
 
-- 👨‍💻 All of my projects are available at: [challenge_porfolio_Wiktoria](challenge_porfolio_Wiktoria)
+- 👨‍💻 All of my projects are available at: [challenge_porfolio_Wiktoria](github.com/WikMoz/challenge_porfolio_Wiktoria)
 
 - 📫 How to reach me: [**email**](wmozalewska@gmail.com)
 # Courses
