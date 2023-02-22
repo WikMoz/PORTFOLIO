@@ -54,7 +54,7 @@
 ## Testing exercises at DARE IT challenge:
 
 
-### ✅ Testing [Scouts Kolektyw](https://scouts-test.futbolkolektyw.pl/pl) web app
+### ✅ Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/pl) web app
 - Explorative testing
 - [Test cases for user stories](https://docs.google.com/spreadsheets/d/1lodk83NlXzVX2n_N-y8rW2jbiDuHJxqD/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
 - [Test cases based on experience](https://docs.google.com/spreadsheets/d/1YmXbnhtnpeROPaZI6VZ_JnWPs83CFGMd/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
