@@ -12,7 +12,9 @@
 [<kbd> About me </kbd>](#about-me)
 [<kbd> Courses </kbd>](#courses)
 [<kbd> Tools </kbd>](#tools)
+[<kbd> Tech skills </kbd>(#tech-skills)
 [<kbd> Projects </kbd>](#projects)
+
 
 # About me
 
@@ -34,13 +36,18 @@
 
 # Tools
 
-- SQL (phpMyAdmin, SQL Server Managment Studio) - basics for beginners
 - Jira - basics (creating test cases in group)
 - GitHub - basics (creating portfolio)
 - Devtools - basics for beginners
 - Screenpresso, Mobizen
 - Slack
 
+# Tech skills
+
+- SQL - basics for beginners
+- Creating test cases
+- Reporting bugs
+- Creating test reports
 
 # Projects
 
@@ -48,21 +55,24 @@
 ## Testing exercises at DARE IT challenge:
 
 
-### Testing Scouts Kolektyw 
-- Explorative tesitng
+### ✅ Testing [Scouts Kolektyw](https://scouts-test.futbolkolektyw.pl/pl) web app
+- Explorative testing
 - [Test cases for user stories](https://docs.google.com/spreadsheets/d/1lodk83NlXzVX2n_N-y8rW2jbiDuHJxqD/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
 - [Test cases based on experience](https://docs.google.com/spreadsheets/d/1YmXbnhtnpeROPaZI6VZ_JnWPs83CFGMd/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
 - [Bug report](https://docs.google.com/spreadsheets/d/1yNjSEN-VvtSfSd5MfSlgpfMwzW0bd1FGTANk7rX8lcE/edit?usp=sharing) 
 - [Test report](https://docs.google.com/spreadsheets/d/1IvBLQX9O88la2VP2aUuf9GlSBBfTlNkv5cXqbucVlKc/edit?usp=sharing) 
 - [Explorative testing - tour](https://docs.google.com/spreadsheets/d/1TrnbCMN6Ii4YK9mdQORSYsZ59pRR7AjU5uM4_7y8bEg/edit?usp=share_link) 
 
-### Testing particular functions of pick.eat.up mobile app in group
+### ✅ Testing [pick.eat.up](https://play.google.com/store/apps/details?id=com.pickeatup&gl=US&pli=1) mobile app in group
 - [Test cases for pick.eat.up app](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true) 
 
-### Explorative testing OLX mobile app
+### ✅ Explorative testing [OLX](https://play.google.com/store/apps/details?id=pl.tablica&gl=US) mobile app
 - [Bug report](https://docs.google.com/spreadsheets/d/1psyvC75DrlCn2q9qnlad02WGcFH9bQkzEdPt1OVgCuA/edit?usp=share_link)
 
-### Testing SwipeTo in groups [jira project](https://sirtester.atlassian.net/browse/CPP)
+### ✅ Testing [SwipeTo](https://swipeto.pl/) web app and mobile app in groups 
+
+
+[jira project](https://sirtester.atlassian.net/browse/CPP)
 |Id |Title                                                                       | BUG |Screencast|
 |:-:|:--------------------------------------------------------------------------:|:---:|:--------:|
 |1  |The registration window is cropped|[BUG1](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10614016/CPP-2.pdf)|[Screencast](https://user-images.githubusercontent.com/122229411/216847250-a513ca26-e12c-41da-864d-a2dba5616a9e.mp4)|
