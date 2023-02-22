@@ -12,9 +12,8 @@
 [<kbd> About me </kbd>](#about-me)
 [<kbd> Courses </kbd>](#courses)
 [<kbd> Tools </kbd>](#tools)
-[<kbd> Tech skills </kbd>(#tech-skills)
+[<kbd> Tech skills </kbd>](#tech-skills)
 [<kbd> Projects </kbd>](#projects)
-
 
 # About me
 
