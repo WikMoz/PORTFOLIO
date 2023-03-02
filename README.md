@@ -29,7 +29,7 @@
 
 # Courses
 
-- 3 months course - Dare IT Challenge: Become a manual tester
+- 7 weeks course - Dare IT Challenge: Become a manual tester
 - SQL basics (sql in 120 minutes - kursysql.pl)
 
 
@@ -71,7 +71,7 @@
 ### ✅ Testing [SwipeTo](https://swipeto.pl/) web app and mobile app in groups 
 
 
-[jira project](https://sirtester.atlassian.net/browse/CPP)
+[Jira project](https://sirtester.atlassian.net/browse/CPP)
 |Id |Title                                                                       | BUG |Screencast|
 |:-:|:--------------------------------------------------------------------------:|:---:|:--------:|
 |1  |The registration window is cropped|[BUG1](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10614016/CPP-2.pdf)|[Screencast](https://user-images.githubusercontent.com/122229411/216847250-a513ca26-e12c-41da-864d-a2dba5616a9e.mp4)|
