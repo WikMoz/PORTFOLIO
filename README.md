@@ -17,9 +17,9 @@
 
 # About me
 
-- 👋 Hi! I'm Wika! I'm passionate learner of manual testing. 
+- 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently learning: **DARE IT challenge: Become a manual tester**
+- 🌱 I’m currently learning: **DARE IT challenge: Automated testing + Python**
 
 - 👨‍💻 All of my projects are available at: [DARE IT challenge](https://github.com/WikMoz/challenge_portfolio_Wiktoria)
 
@@ -29,6 +29,7 @@
 
 # Courses
 
+- 7 weeks course - Dare IT Challenge: Automated testing + Python - in progress (start 30.03.2023)
 - 7 weeks course - Dare IT Challenge: Become a manual tester
 - SQL basics (sql in 120 minutes - kursysql.pl)
 
