@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning: **DARE IT challenge: Automated testing + Python**
 
-- 👨‍💻 All of my projects are available at: [DARE IT challenge](https://github.com/WikMoz/challenge_portfolio_Wiktoria)
+- 👨‍💻 All of my projects are available at: [DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)
 
 - 📫 How to reach me: <wmozalewska@gmail.com>
 
