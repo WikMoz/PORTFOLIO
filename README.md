@@ -29,8 +29,8 @@
 
 # Courses
 
-- 7 weeks course - Dare IT Challenge: Automated testing + Python - in progress (start 30.03.2023)
-- Collaborative testing - Cherry IT: COLT 1/2023 REST API - in progress (start 24.03.2023)
+- 7 weeks course - Dare IT Challenge: Automated testing + Python - in progress
+- Collaborative testing - Cherry IT: COLT 1/2023 REST API - in progress
 - 7 weeks course - Dare IT Challenge: Become a manual tester
 - SQL basics (sql in 120 minutes - kursysql.pl)
 
@@ -40,6 +40,7 @@
 - Jira - basics (creating test cases in group)
 - GitHub - basics (creating portfolio)
 - Devtools - basics for beginners
+- Postman - basics for beginners
 - Screenpresso, Mobizen
 - Slack
 
@@ -82,7 +83,12 @@
 |4  |No possibility to add comment to the article|[BUG4](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613982/CPP-5.pdf)|[Screencast](https://drive.google.com/file/d/1Hk4CA7y46jmeFjd4jy2x-7m2uVLGanS4/view?usp=share_link)|
 |5  |Name of the author overlaps the icons|[BUG5](https://github.com/WikMoz/challenge_portfolio_Wiktoria/files/10613965/CPP-6.pdf)|[Screencast](https://drive.google.com/file/d/1lOVSLKrvoZg3jJ-e3gnJUDC9dj4ZoO_Z/view?usp=share_link)|
 
+## Testing at Cherry IT COLT 1/2023
 
+[x] REST API basic knowledge,
+[x] Postman tool's basics,
+[x] creating your own collections based on Trello documentation,
+[x] learning GIT (commits, PR).
 
 ---
 ---
