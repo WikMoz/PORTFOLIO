@@ -85,10 +85,10 @@
 
 ## Testing at Cherry IT COLT 1/2023
 
-[x] REST API basic knowledge,
-[x] Postman tool's basics,
-[x] creating your own collections based on Trello documentation,
-[x] learning GIT (commits, PR).
+- [x] REST API basic knowledge,
+- [x] Postman tool's basics,
+- [x] creating your own collections based on Trello documentation,
+- [x] learning GIT (commits, PR).
 
 ---
 ---
