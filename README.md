@@ -30,7 +30,7 @@
 # Courses
 
 - 7 weeks course - Dare IT Challenge: Automated testing + Python - in progress
-- Collaborative testing - Cherry IT: COLT 1/2023 REST API - in progress
+- Collaborative testing - Cherry IT: COLT 1/2023 REST API 
 - 7 weeks course - Dare IT Challenge: Become a manual tester
 - SQL basics (sql in 120 minutes - kursysql.pl)
 
