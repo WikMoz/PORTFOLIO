@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at: [DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)
 
-- 📫 How to reach me: <wmozalewska@gmail.com>
+- 📫 How to reach me: <wmozalewska@gmail.com> , [linkedin](https://www.linkedin.com/in/wiktoria-mozalewska)
 
 - 😉 I'm finishing my DARE IT course and I am really interested in gaining some experience to enrich my portfolio 
 
@@ -37,6 +37,7 @@
 
 # Tools
 
+- Pycharm - basics
 - Jira - basics (creating test cases in group)
 - GitHub - basics (creating portfolio)
 - Devtools - basics for beginners
@@ -50,11 +51,12 @@
 - Creating test cases
 - Reporting bugs
 - Creating test reports
+- Basics for beginners of automated testing
 
 # Projects
 
 
-## Testing exercises at DARE IT challenge:
+## Testing exercises at DARE IT manual testing challenge:
 
 
 ### ✅ Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/pl) web app
@@ -90,9 +92,18 @@
 - [x] creating your own collections based on Trello documentation,
 - [x] learning GIT (commits, PR).
 
----
----
 
+## Testing exercises at DARE IT automated testing challenge:
+
+- [x] Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/en) web app
+- [x] Creating project using Selenium Webdriver + Python and robot framework
+- [x] Creating [automated testing repository](https://github.com/WikMoz/challenge_automated_testing)
+- [x] [Test cases](https://docs.google.com/spreadsheets/d/1SZTZz8OM2_jrhuyFVGiuhYWc3yNVn80e2h4A2Dd-aKg/edit?usp=share_link)
+- [x] [Bug report](https://docs.google.com/spreadsheets/d/1Box018tjWX_dN2I6KCCwPfX5f0vzeeOLH3Y743uoJKg/edit?usp=share_link)
+- [x] [Test report]()
+
+---
+---
 
 ## Can't find any bugs?
 
