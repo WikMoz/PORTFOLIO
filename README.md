@@ -89,8 +89,8 @@
 
 - [x] REST API basic knowledge,
 - [x] Postman tool's basics,
-- [x] creating your own collections based on Trello documentation,
-- [x] learning GIT (commits, PR).
+- [x] Creating collections based on Trello documentation,
+- [x] Learning GIT (commits, PR).
 
 
 ## Testing exercises at DARE IT automated testing challenge:
