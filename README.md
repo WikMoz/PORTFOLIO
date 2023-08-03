@@ -19,17 +19,19 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently learning: **DARE IT challenge: Automated testing + Python**
+- 🌱 I’m currently learning: **Udemy - Postman: The Complete Guide - REST API Testing**
+**
 
 - 👨‍💻 All of my projects are available at: [DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)
 
 - 📫 How to reach me: <wmozalewska@gmail.com> , [linkedin](https://www.linkedin.com/in/wiktoria-mozalewska)
 
-- 😉 I'm finishing my DARE IT course and I am really interested in gaining some experience to enrich my portfolio 
+- 😉 Contact me - I am really interested in gaining some experience to enrich my portfolio 
 
 # Courses
 
-- 7 weeks course - Dare IT Challenge: Automated testing + Python - in progress
+- Postman: The Complete Guide - REST API Testing - UDEMY - in progress
+- 7 weeks course - Dare IT Challenge: Automated testing + Python
 - Collaborative testing - Cherry IT: COLT 1/2023 REST API 
 - 7 weeks course - Dare IT Challenge: Become a manual tester
 - SQL basics (sql in 120 minutes - kursysql.pl)
