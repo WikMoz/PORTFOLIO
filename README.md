@@ -19,7 +19,7 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently learning: **Udemy - Postman: The Complete Guide - REST API Testing**
+- 🌱 I’m currently learning: **[Udemy - Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)**
 
 - 👨‍💻 All of my projects are available at: [DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)
 
