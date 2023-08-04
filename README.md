@@ -41,7 +41,6 @@
 - Pycharm - basics
 - Jira - basics (creating test cases in group)
 - GitHub - basics (creating portfolio)
-- Devtools - basics for beginners
 - Postman - basics for beginners
 - Screenpresso, Mobizen
 - Slack
