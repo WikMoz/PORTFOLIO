@@ -19,7 +19,7 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently learning: **[Postman - REST API testing - UDEMY - in progress](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/)**
+- 🌱 I’m currently learning: **[Postman - REST API testing - UDEMY](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/)** - in progress
 
 - 👨‍💻 All of my projects are available at: **[DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)**
 
@@ -29,11 +29,11 @@
 
 # Courses
 
-- Postman - REST API testing - UDEMY - in progress
-- Devtools - Adam Gola [Certificate](https://drive.google.com/file/d/1ehofc_p19o5D6YcBksqnGqA351XYvoUW/view?usp=drive_link)
-- 7 weeks course - Dare IT Challenge: Automated testing + Python [Certificate](https://drive.google.com/file/d/1UeZiKSnyBuKkh7DznT5iafFI22hsLxD4/view?usp=drive_link)
+- [Postman - REST API testing](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/) - UDEMY - in progress
+- [Devtools](https://szkoleniedlaqa.pl/konsola/) - Adam Gola 🧾 [Certificate](https://drive.google.com/file/d/1ehofc_p19o5D6YcBksqnGqA351XYvoUW/view?usp=drive_link)
+- 7 weeks course - [Dare IT Challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych): Automated testing + Python  🧾 [Certificate](https://drive.google.com/file/d/1UeZiKSnyBuKkh7DznT5iafFI22hsLxD4/view?usp=drive_link)
 - Collaborative testing - Cherry IT: REST API [COLT 1/2023](http://cherry-it.pl/podsumowanie-colt-1-2023/)
-- 7 weeks course - Dare IT Challenge: Become a manual tester [Certificate](https://drive.google.com/file/d/1muazSQFQ-i7vjRm48xIr8-13WDR6Qtok/view?usp=drive_link)
+- 7 weeks course - [Dare IT Challenge](https://www.dareit.io/challenges/qa-manual-testing): Become a manual tester  🧾 [Certificate](https://drive.google.com/file/d/1muazSQFQ-i7vjRm48xIr8-13WDR6Qtok/view?usp=drive_link)
 - SQL basics - SQL in 120 minutes - [kursysql.pl](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
 
