@@ -19,29 +19,31 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently learning: **[Udemy - Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)**
+- 🌱 I’m currently learning: **[Postman - REST API testing - UDEMY - in progress](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/)**
 
-- 👨‍💻 All of my projects are available at: [DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)
+- 👨‍💻 All of my projects are available at: **[DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)**
 
-- 📫 How to reach me: <wmozalewska@gmail.com> , [linkedin](https://www.linkedin.com/in/wiktoria-mozalewska)
+- 📫 How to reach me: wmozalewska@gmail.com , [linkedin](https://www.linkedin.com/in/wiktoria-mozalewska)
 
 - 😉 Contact me - I am really interested in gaining some experience to enrich my portfolio 
 
 # Courses
 
-- Postman: The Complete Guide - REST API Testing - UDEMY - in progress
-- 7 weeks course - Dare IT Challenge: Automated testing + Python
-- Collaborative testing - Cherry IT: COLT 1/2023 REST API 
-- 7 weeks course - Dare IT Challenge: Become a manual tester
-- SQL basics (sql in 120 minutes - kursysql.pl)
+- Postman - REST API testing - UDEMY - in progress
+- Devtools - Adam Gola [Certificate](https://drive.google.com/file/d/1ehofc_p19o5D6YcBksqnGqA351XYvoUW/view?usp=drive_link)
+- 7 weeks course - Dare IT Challenge: Automated testing + Python [Certificate](https://drive.google.com/file/d/1UeZiKSnyBuKkh7DznT5iafFI22hsLxD4/view?usp=drive_link)
+- Collaborative testing - Cherry IT: REST API [COLT 1/2023](http://cherry-it.pl/podsumowanie-colt-1-2023/)
+- 7 weeks course - Dare IT Challenge: Become a manual tester [Certificate](https://drive.google.com/file/d/1muazSQFQ-i7vjRm48xIr8-13WDR6Qtok/view?usp=drive_link)
+- SQL basics - SQL in 120 minutes - [kursysql.pl](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
 
 # Tools
 
-- Pycharm - basics
+- Devtools - basics for manual testers
+- Pycharm - basics for beginners
 - Jira - basics (creating test cases in group)
 - GitHub - basics (creating portfolio)
-- Postman - basics for beginners
+- Postman - basics
 - Screenpresso, Mobizen
 - Slack
 
@@ -100,7 +102,7 @@
 - [x] Creating [automated testing repository](https://github.com/WikMoz/challenge_automated_testing)
 - [x] [Test cases](https://docs.google.com/spreadsheets/d/1SZTZz8OM2_jrhuyFVGiuhYWc3yNVn80e2h4A2Dd-aKg/edit?usp=share_link)
 - [x] [Bug report](https://docs.google.com/spreadsheets/d/1Box018tjWX_dN2I6KCCwPfX5f0vzeeOLH3Y743uoJKg/edit?usp=share_link)
-- [x] [Test report]()
+- [x] [Test report](https://docs.google.com/spreadsheets/d/10aMmj4evYu9VtLWLdEiC9k36R_p-sr50jVYqDm6iWgU/edit?usp=drive_link)
 
 ---
 ---
