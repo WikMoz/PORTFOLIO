@@ -40,7 +40,6 @@
 # Tools
 
 - Devtools - basics for manual testers
-- Pycharm - basics for beginners
 - Jira - basics (creating test cases in group)
 - GitHub - basics (creating portfolio)
 - Postman - basics
