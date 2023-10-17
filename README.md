@@ -57,7 +57,7 @@
 # Projects
 
 
-## Testing exercises at DARE IT manual testing challenge:
+## Testing exercises at DARE IT manual testing challenge
 
 
 ### ✅ Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/pl) web app
@@ -92,7 +92,7 @@
 - [x] Learning GIT (commits, PR).
 
 
-## Testing exercises at DARE IT automated testing challenge:
+## Testing exercises at DARE IT automated testing challenge
 
 - [x] Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/en) web app
 - [x] Creating project using Selenium Webdriver + Python and robot framework
