@@ -101,12 +101,12 @@
 - [x] [Test report](https://docs.google.com/spreadsheets/d/10aMmj4evYu9VtLWLdEiC9k36R_p-sr50jVYqDm6iWgU/edit?usp=drive_link)
 
 ## MY OWN PROJECTS
-### ✅ Explorative testing of [salve.pl](salve.pl) website
-|Id |Title                                                                       | BUG |Screencast|
-|:-:|:--------------------------------------------------------------------------:|:---:|:--------:|
+### ✅ Explorative testing of [salve.pl](https://salve.pl) website
+|Id |Title                                                          |BUG       |Screencast|
+|:-:|:-------------------------------------------------------------:|:--------:|:--------:|
 |1  |Titles of the text fields do not have polish characters|[BUG 1](https://drive.google.com/file/d/1-tk-FAlb57CY6mXtqXYFKTTHhJX83gyf/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1MH2MKp3_KU1sTI82cL9o8MAZRDmwVwxj/view?usp=drive_link)|
 |2  |Format of the time in the medical appointment date|[BUG 2](https://drive.google.com/file/d/1jYFNp8k6GMfedVv6eHnR-aoQnAelSaRX/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1f_5_7QscXq5byTXXZjaIQDCRnaHpwXVv/view?usp=drive_link)|
-|3  |Button 'Pokaż pozostałe wizyty' is active even after showing all hidden content of the medical appointment table|[BUG 3](https://drive.google.com/file/d/1Uo9-ZDoyIFy5-ajVcoDvToYKX1FzmtUA/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1QANbgdloGzm1jV3HigGVDOZ0NkHeyaqd/view?usp=drive_link)|
+|3  |Button 'Pokaż pozostałe wizyty' is active even after showing all hidden content </br> of the medical appointment table|[BUG 3](https://drive.google.com/file/d/1Uo9-ZDoyIFy5-ajVcoDvToYKX1FzmtUA/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1QANbgdloGzm1jV3HigGVDOZ0NkHeyaqd/view?usp=drive_link)|
 |4  |Carousel at the main page has invisible indicators when there is a light background|[BUG 4](https://drive.google.com/file/d/1XBEkWpHoPTDSK_nBaPodTrxAyq6T3VxG/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1TVYT-UATz4_T6DLUVWgg1IkznxerVyKV/view?usp=drive_link)|
 |5  |Date text fields have cropped titles|[BUG 5](https://drive.google.com/file/d/14COeqDwWLQ8EjDysbEKVbBG9dFEpM_dh/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1p_qWoF85iuxByi95ThEpLz41uTyZ6fRc/view?usp=drive_link)|
 |6  |No title above the date of birth text field|[BUG 6](https://drive.google.com/file/d/1QeydQpVCCSBcl5JMsdeUm-Vv2VZkCJJp/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/18H-ruPVtouR4zeyRhE4IPaxdzuyog5mV/view?usp=drive_link)|
