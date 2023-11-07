@@ -101,7 +101,7 @@
 - [x] [Test report](https://docs.google.com/spreadsheets/d/10aMmj4evYu9VtLWLdEiC9k36R_p-sr50jVYqDm6iWgU/edit?usp=drive_link)
 
 ## MY OWN PROJECTS
-### ✅ Explorative testing of [salve.pl](https://salve.pl) website
+### ✅ Exploratory testing of [salve.pl](https://salve.pl) website
 |Id |Title                                                          |BUG       |Screencast|
 |:-:|:-------------------------------------------------------------:|:--------:|:--------:|
 |1  |Titles of the text fields do not have polish characters|[BUG 1](https://drive.google.com/file/d/1-tk-FAlb57CY6mXtqXYFKTTHhJX83gyf/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1MH2MKp3_KU1sTI82cL9o8MAZRDmwVwxj/view?usp=drive_link)|
