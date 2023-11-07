@@ -29,7 +29,7 @@
 
 # Courses
 
-- [Basic SQL in practice - Digital Festival](https://digitalfestival.pl/akademia_skillup/podstawy-jezyka-sql-w-praktyce/)
+- [Basic SQL in practice](https://digitalfestival.pl/akademia_skillup/podstawy-jezyka-sql-w-praktyce/) - Digital Festival
 - [Postman - REST API testing](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/) - UDEMY 🧾 [Certificate](https://drive.google.com/file/d/1lKAMZto7m98EUc2Y9BnzJOm0tTbND0fL/view?usp=drivesdk)
 - [Devtools](https://szkoleniedlaqa.pl/konsola/) - Adam Gola 🧾 [Certificate](https://drive.google.com/file/d/1ehofc_p19o5D6YcBksqnGqA351XYvoUW/view?usp=drive_link)
 - 7 weeks course - [Dare IT Challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych): Intoduction to automated testing  🧾 [Certificate](https://drive.google.com/file/d/1UeZiKSnyBuKkh7DznT5iafFI22hsLxD4/view?usp=drive_link)
@@ -41,7 +41,7 @@
 # Tools
 
 - Devtools - basics for manual testers
-- Jira - basics (creating test cases in group)
+- Jira - basics (creating test cases)
 - GitHub - basics (creating portfolio)
 - Postman - basics
 - Screenpresso, Mobizen
