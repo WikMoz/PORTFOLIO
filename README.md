@@ -117,6 +117,7 @@
 |10 |Name of the test instead of the name of the doctor|[BUG 10](https://drive.google.com/file/d/1y4ihCLiB4DMBydsd2uYT8_yrBk5Vc4gv/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1lxTiUz0EtqJAx5z98jD66sWvobcE752o/view?usp=drive_link)|
 |11 |Inconsistent phone availability hours|[BUG 11](https://drive.google.com/file/d/1n8LVLrbU48f4nn0wjiLaIZBH2FBoIv2m/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1NMNu8HgnZiEV9hwQAgkn2qSy_x1lCbTt/view?usp=drive_link)|
 |12 |While refreshing the page a different phone number briefly appears|[BUG 12](https://drive.google.com/file/d/1NdCYzK7cO0a8bHrVUnt5oaVQQ6ePBRzy/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1X9vdNrNX3FH7XAxQ3R_668_LBHXwFhmO/view?usp=drive_link)|
+|13 |Page Not Found (404) issue when accessing medical test details on salve.pl|[BUG 13](https://drive.google.com/file/d/1zjeH5tsamQ2mWW2RqvrIvgyMnJYNEsiA/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1HQgna-bAl4OWDalZSorPWjSfXL5R95GU/view?usp=drive_link)
 
 ---
 ---
