@@ -1,5 +1,4 @@
 
-
 ![2023-02-20_20h49_22](https://user-images.githubusercontent.com/122229411/220188318-ab13f5d8-f710-4785-93d0-21e36bc2b6c2.png)
 
 
@@ -26,6 +25,11 @@
 - 📫 How to reach me: wmozalewska@gmail.com , [linkedin](https://www.linkedin.com/in/wiktoria-mozalewska)
 
 - 😉 Contact me - I am really interested in gaining some experience to enrich my portfolio 
+
+*Welcome to my testing portfolio. I'm a passionate beginner in manual testing, excited about taking on new challenges and gaining valuable experience.*
+*Within my portfolio lies not only a collection of skills but a story of my dedication to analysis, exploration, and refinement. Despite being in the early stages of my testing career, my professional background in the pharmaceutical industry, specifically in the quality control of pharmaceuticals, has given me a strong understanding of the importance of maintaining the highest standards of quality. My professional experience serves as a foundation for my commitment to excellence in testing.*
+*I aspire to be a valuable team member contributing to the success of projects. I firmly believe in the power of learning through practical application. Therefore, I  am really interested in gaining experience and very enthusiastic about contributing to projects providing me an opportunities to enhance my skills.*
+
 
 # Courses
 
