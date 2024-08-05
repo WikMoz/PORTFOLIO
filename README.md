@@ -35,7 +35,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 # Courses, training, mentoring
 
-- I was chosen as a Mentee in Cherry IT Mentoring Programme conducted by Anna Czyrko
+- I was chosen as a Mentee to Cherry IT Mentoring Programme conducted by Anna Czyrko
 - Collaborative testing - Cherry IT: Devtools [COLT 3/2023](http://cherry-it.pl/colt-3-2023/)
 - [Basic SQL in practice](https://digitalfestival.pl/akademia_skillup/podstawy-jezyka-sql-w-praktyce/) - Digital Festival
 - [Postman - REST API testing](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/) - UDEMY 🧾 [Certificate](https://drive.google.com/file/d/1lKAMZto7m98EUc2Y9BnzJOm0tTbND0fL/view?usp=drivesdk)
