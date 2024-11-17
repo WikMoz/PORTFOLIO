@@ -18,7 +18,7 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently participating in: **Dare it mentoring**
+- 🌱 I’m currently participating in: **DARE IT mentoring**
 
 - 👨‍💻 All of my projects are available at: **[DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)**
 
@@ -34,7 +34,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 
 # Courses, training, mentoring
-- Dare it mentoring
+- DARE IT mentoring
 - [uTest Academy](https://www.utest.com/)
 - Collaborative testing - Cherry IT: Devtools [COLT 3/2023](http://cherry-it.pl/colt-3-2023/)
 - [Basic SQL in practice](https://digitalfestival.pl/akademia_skillup/podstawy-jezyka-sql-w-praktyce/) - Digital Festival
