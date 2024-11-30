@@ -35,7 +35,10 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 # Courses, training, mentoring
 - [DARE IT mentoring](https://www.dareit.io/mentoring/)
-DareIT Mentoring is a 4-month program where I work with my mentor on my manual tester skills. In addition to 1:1 sessions with a mentor, the Program offers: HR consultations, thematic webinars, networking meetings, all in a community of almost 300 people: mentors, HR consultants, Program Partners and other mentees. Nearly 500 candidates applied for the 120 spots - I am ready to take full advantage of this opportunity to prepare myself to get my first job in IT.
+
+
+DareIT Mentoring is a 4-month program where I work with my mentor on my manual tester skills. In addition to 1:1 sessions with a mentor, the Program offers: HR consultations, thematic webinars, networking meetings, all in a community of almost 300 people: mentors, HR consultants, Program Partners and other mentees.
+Nearly 500 candidates applied for the 120 spots - I am ready to take full advantage of this opportunity to prepare myself to get my first job in IT.
 - [uTest Academy](https://www.utest.com/)
 - Cherry IT mentoring with Anna Czyrko
 - Collaborative testing - Cherry IT: Devtools [COLT 3/2023](http://cherry-it.pl/colt-3-2023/)
