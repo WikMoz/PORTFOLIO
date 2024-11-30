@@ -9,7 +9,7 @@
 </p>
 
 [<kbd> About me </kbd>](#about-me)
-[<kbd> Courses </kbd>](#courses)
+[<kbd> Courses </kbd>](#courses-training-mentoring)
 [<kbd> Tools </kbd>](#tools)
 [<kbd> Tech skills </kbd>](#tech-skills)
 [<kbd> Projects </kbd>](#projects)
@@ -18,7 +18,7 @@
 
 - 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently participating in: **DARE IT mentoring**
+- 🌱 I’m currently participating in: [**DARE IT mentoring**](#courses-training-mentoring)
 
 - 👨‍💻 All of my projects are available at: **[DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)**
 
