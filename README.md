@@ -114,6 +114,10 @@ Nearly 500 candidates applied for the 120 spots - I am ready to take full advant
 - [x] [Test report](https://docs.google.com/spreadsheets/d/10aMmj4evYu9VtLWLdEiC9k36R_p-sr50jVYqDm6iWgU/edit?usp=drive_link)
 
 ## MY OWN PROJECTS
+### ✅ Exploratory testing of [Rainbow Tours](https://r.pl) website
+|Id |Title                                                          |BUG       |Screencast|Screenshot|
+|:-:|:-------------------------------------------------------------:|:--------:|:--------:|:--------:|
+|1  |Titles of the text fields do not have polish characters|[BUG 1](https://drive.google.com/file/d/1L78n-mFgrkqubkogBj0A4SDTm4GmnoQr/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/135PgzW-qDmwhW3mNqcWnTi11GH8VdOEK/view?usp=drive_link)|[Screenshot](https://drive.google.com/file/d/1vITccxw4ntYXsqrQTProijPS9OJxOgbe/view?usp=drive_link)|
 ### ✅ Exploratory testing of [salve.pl](https://salve.pl) website
 |Id |Title                                                          |BUG       |Screencast|
 |:-:|:-------------------------------------------------------------:|:--------:|:--------:|
